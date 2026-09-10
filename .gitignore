@@ -1,0 +1,22 @@
+# Python
+--pycache--/
+*.pyc
+*.pyo
+
+# Virtual Enviroment
+venv/
+.venv/
+
+# Enviroment Variables
+.Enviroment
+
+# Django
+db.sqlite3
+media/
+
+# VS code
+.vscode/
+
+# OS
+.DS_Store
+Thunbs.db
